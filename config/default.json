@@ -1,0 +1,7 @@
+{
+  "//mongoURI": "mongodb+srv://dongha123:dongha123@devconnector-llgud.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb://localhost:27017/test",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "c1d6fd3f9428f4930b7e",
+  "githubSecret": "3236963c9af0ca075cf702c74c15577728dc674a"
+}
